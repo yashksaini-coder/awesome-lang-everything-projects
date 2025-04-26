@@ -1,0 +1,17 @@
+{
+  "name": "rag-langbase-typescirpt",
+  "version": "1.0.0",
+  "description": "Building a RAG system using langabase SDK and Typescirpt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "langbase": "^1.1.55"
+  }
+}
